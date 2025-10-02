@@ -1,4 +1,4 @@
-﻿namespace UnderseeCodeLinq;
+namespace UnderseeCodeLinq;
 
 class Program
 {
